@@ -3,3 +3,6 @@ Professor Gustavo Guanabara
 
 
 
+Aula 01 - Conhecimento de Algoritmos
+
+Aula 02 - Conhecendo Visualg e o que são variáveis.
