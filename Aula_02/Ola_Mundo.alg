@@ -4,9 +4,9 @@ algoritmo "primeiro"
 // Data : 02/01/2021
 // Seção de Declarações 
 var
-
+   msg: caractere
 inicio
 // Seção de Comandos
-   Escreval("Olá, Mundo!")
-   Escreva ("Me livrei da maldição!")
+   msg <-"Olá, Mundo!"
+   Escreva (msg)
 fimalgoritmo
