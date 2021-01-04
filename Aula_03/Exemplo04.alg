@@ -7,7 +7,7 @@ var
 N1, N2: inteiro
 M: real
 inicio
-// Seção de Comandos
+// Média entre dois números
 Escreva("Informe um número: ")
 Leia(N1)
 Escreva("Informe outro número: ")
