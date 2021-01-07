@@ -11,8 +11,16 @@ Aula 03 - Comando de Entrada e Operadores
 
 Aula 04 - Operadores Lógicos e Relacionais
 
-Aula 05 - 
+Aula 05 - Introdução ao Scratch
 
-Aula 06 - 
+Aula 06 - Exercícios de Algoritmo Resolvido
 
 Aula 07 - Estruturas Condicionais 1
+
+Aula 08 - Estruturas Condicionais 2
+
+Aula 09 - Estruturas de Repetição 1
+
+Aula 10 - Estruturas de Repetição 2
+
+Aula 11 - Estruturas de Repetição 3
